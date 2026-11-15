@@ -10,3 +10,5 @@ slprj/
 *.out
 *.synctex.gz
 *.slx.original
+.directory
+*.synctex(busy)
