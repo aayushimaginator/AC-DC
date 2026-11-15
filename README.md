@@ -10,7 +10,7 @@ Electrical models (`.slx`), circuit screenshots (`a`) and output waveforms (`b`)
 | 2 | DC-DC boost converter, open loop | [2. Boost converter](<2. Boost converter>) |
 | 3 | AC-DC boost, open loop | [3. AC-DC boost converter](<3. AC-DC boost converter>) |
 | 4 | Outer voltage control loop | [4. Outer Voltage loop append](<4. Outer Voltage loop append>) |
-| 5 | Inner current loop (two variants) | [5. Inner Current loop append](<5. Inner Current loop append>) |
+| 5 | Inner current loop (three variants) | [5. Inner Current loop append](<5. Inner Current loop append>) |
 | 6 | Feed-forward control | [6. Feed Forward control](<6. Feed Forward control>) |
 
 ## Usage

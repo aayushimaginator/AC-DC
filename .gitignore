@@ -3,3 +3,10 @@ slprj/
 *.slxc
 *.asv
 *.mexa64
+*.aux
+*.log
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+*.slx.original
